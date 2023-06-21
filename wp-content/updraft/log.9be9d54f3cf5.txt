@@ -1,0 +1,500 @@
+0000.001 (0) Opened log file at time: Sun, 28 May 2023 10:36:59 +0000 on http://localhost/testsite
+0000.029 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.2.4 (apache2handler, Windows NT THINKPAD250 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 69.9M | 72M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.032 (0) Free space on disk containing Updraft's temporary directory: 126638.2 MB
+0000.039 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.043 (0) Semaphore (fd, wp_options) being initialised
+0000.055 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.062 (0) Set semaphore last lock (fd) time to 2023-05-28 10:36:59
+0000.064 (0) Semaphore lock (fd) complete
+0000.074 (0) Backup run: resumption=0, nonce=9be9d54f3cf5, file_nonce=9be9d54f3cf5 begun at=1685270219 (0s ago), job type=backup
+0000.079 (0) Scheduling a resumption (1) after 300 seconds (1685270519) in case this run gets aborted
+0000.119 (0) Checking if we have a zip executable available
+0000.125 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.128 (0) Creation of backups of directories: beginning
+0000.140 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0006.476 (0) Total entities for the zip file: 1497 directories, 7925 files (0 skipped as non-modified), 93.8 MB
+0006.479 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 96017.7 KB, split: 409600 KB)
+0006.545 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.597 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.638 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0006.692 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0006.745 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0006.795 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0006.843 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0006.896 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0006.944 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0006.994 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0007.044 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0007.082 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0007.131 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0007.174 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0007.218 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0007.270 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0007.318 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0007.369 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0007.405 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0007.452 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0007.494 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0007.544 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0007.590 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0007.640 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0007.696 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0007.755 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0007.804 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0007.859 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0007.900 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0007.973 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0008.023 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0008.076 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0008.142 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0008.194 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0008.262 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0008.324 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0008.360 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0008.416 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0008.474 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0008.527 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0008.576 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0008.635 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0008.700 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0008.760 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0008.826 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0008.882 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0008.945 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0008.993 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0009.056 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0009.119 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0009.182 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0009.239 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0009.294 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0009.362 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0009.429 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0009.493 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0009.552 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0009.626 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0009.685 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0009.748 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0009.806 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0009.860 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0009.916 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0009.980 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0010.032 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0010.085 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0010.135 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0010.174 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0010.223 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0010.270 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0010.313 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0010.365 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0010.411 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0010.452 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0010.502 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0010.551 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0010.603 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+0010.652 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7800 files added (on-disk size: 0 KB)
+0010.711 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp: 7900 files added (on-disk size: 0 KB)
+0308.265 (1) Opened log file at time: Sun, 28 May 2023 10:42:07 +0000 on http://localhost/testsite
+0308.269 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.2.4 (apache2handler, Windows NT THINKPAD250 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 58.4M | 62M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0308.271 (1) Free space on disk containing Updraft's temporary directory: 126527.4 MB
+0308.275 (1) Requesting backup semaphore lock (9be9d54f3cf5)
+0308.280 (1) [Debug] Lock option (updraft_lock_9be9d54f3cf5, wp_options) was created in the database
+0308.281 (1) [Info] Lock (updraft_lock_9be9d54f3cf5, wp_options) acquired after initialising the database
+0308.286 (1) Backup run: resumption=1, nonce=9be9d54f3cf5, file_nonce=9be9d54f3cf5 begun at=1685270219 (308s ago), job type=backup
+0308.290 (1) Scheduling a resumption (2) after 300 seconds (1685270827) in case this run gets aborted
+0308.329 (1) Checking if we have a zip executable available
+0308.332 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0308.334 (1) Creation of backups of directories: had begun; will resume
+0308.341 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0308.351 (1) Terminate: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1685270527, time_now=1685270527, diff=0, size=25340.8KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+0308.357 (1) Rescheduling resumption 2: moving to 420 seconds from now (1685270947)
+0308.365 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 120 = 420
+0411.873 (0) The time we have been running (411.9) is approaching the resumption interval (300) - increasing resumption interval to 442
+0412.062 (0) Creating zip file manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.list-temp.tmp)
+0412.129 (0) Successfully created zip file manifest (size: 715405)
+0413.103 (0) Created plugins zip (0) - 29127 KB in 412.9 s (70.5 KB/s) (sha1: 4a449bf5b5d306065eff0c584b172e0df1c7196b, sha256: 1c361efe0faf0806cab3b71fc0a952cbd06ccadd723a05af772b6e470ced0f25)
+0413.168 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0413.170 (0) No remote despatch: user chose no remote backup service
+0413.173 (0) Recording as successfully uploaded: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip
+0413.178 (0) Deleting zip manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip.list.tmp)
+0413.190 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0413.193 (0) Number of backup sets in history: 0; groups (db): 1
+0413.195 (0) Number of backup sets in history: 0; groups (files): 1
+0413.197 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0413.212 (0) Beginning creation of dump of themes (split every: 400 MB)
+0413.724 (0) Total entities for the zip file: 175 directories, 623 files (0 skipped as non-modified), 15.5 MB
+0413.726 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 15844.3 KB, split: 409600 KB)
+0413.774 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0413.825 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0413.877 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0413.932 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0413.983 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0414.033 (0) Zip: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0444.680 (0) The time we have been running (444.7) is approaching the resumption interval (442) - increasing resumption interval to 475
+0444.706 (0) Creating zip file manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.list-temp.tmp)
+0444.719 (0) Successfully created zip file manifest (size: 45865)
+0445.121 (0) Created themes zip (0) - 11888.4 KB in 31.9 s (372.7 KB/s) (sha1: 730ac906a13f8c5e992b2b225c49f21dd621b028, sha256: 8b52339fcd5bdfbb60f8c8372f5deadb323baac55ccea77ab26796000b147327)
+0445.133 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0445.135 (0) No remote despatch: user chose no remote backup service
+0445.138 (0) Recording as successfully uploaded: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip
+0445.142 (0) Deleting zip manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip.list.tmp)
+0445.149 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0445.151 (0) Number of backup sets in history: 0; groups (db): 1
+0445.153 (0) Number of backup sets in history: 0; groups (files): 1
+0445.155 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0445.170 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0445.172 (0) Looking for candidates to backup in: C:\xampp\htdocs\testsite/wp-content/uploads
+0445.175 (0) finding files: 2023: adding to list (1)
+0445.177 (0) finding files: elementor: adding to list (2)
+0445.180 (0) finding files: wc-logs: adding to list (3)
+0445.182 (0) finding files: woocommerce_uploads: adding to list (4)
+0445.184 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0445.207 (0) Total entities for the zip file: 6 directories, 19 files (0 skipped as non-modified), 2.1 MB
+0445.211 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 2110.5 KB, split: 409600 KB)
+0445.723 (0) The time we have been running (445.7) is approaching the resumption interval (475) - increasing resumption interval to 476
+0445.729 (0) Creating zip file manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-uploads.zip.list-temp.tmp)
+0445.732 (0) Successfully created zip file manifest (size: 976)
+0445.799 (0) Created uploads zip (0) - 2091.2 KB in 0.6 s (3454.8 KB/s) (sha1: 4d04a52ca6fa9dacc1854964b09d8d99fbfe6e12, sha256: 3fae638559145accff25b12add5121714e806b4cd8085c1cab40f03a2d9eb51e)
+0445.809 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0445.811 (0) No remote despatch: user chose no remote backup service
+0445.814 (0) Recording as successfully uploaded: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-uploads.zip
+0445.818 (0) Deleting zip manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-uploads.zip.list.tmp)
+0445.823 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0445.826 (0) Number of backup sets in history: 0; groups (db): 1
+0445.828 (0) Number of backup sets in history: 0; groups (files): 1
+0445.830 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0445.843 (0) Beginning backup of other directories found in the content directory (index: 0)
+0445.845 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0445.846 (0) Looking for candidates to backup in: C:\xampp\htdocs\testsite/wp-content
+0445.849 (0) finding files: index.php: adding to list (1)
+0445.851 (0) finding files: plugins: skipping: this is the plugins directory
+0445.854 (0) finding files: themes: skipping: this is the themes directory
+0445.856 (0) finding files: updraft: skipping: this is the updraft directory
+0445.857 (0) finding files: upgrade: skipping: excluded by options
+0445.859 (0) finding files: uploads: skipping: this is the uploads directory
+0445.863 (0) finding files: woostify-stylesheet: adding to list (2)
+0445.877 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0445.879 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 24.3 KB, split: 409600 KB)
+0445.937 (0) Creating zip file manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-others.zip.list-temp.tmp)
+0445.942 (0) Successfully created zip file manifest (size: 99)
+0445.959 (0) Created others zip (0) - 5 KB in 0.1 s (58.4 KB/s) (sha1: f38fd9ef2f91e697081395e4fd2a49ec0f269e12, sha256: 5d597586983177097a540c02161b2e5b36e3aff764f618f0d6f2ba9cb5a8179d)
+0445.971 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0445.974 (0) No remote despatch: user chose no remote backup service
+0445.977 (0) Recording as successfully uploaded: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-others.zip
+0445.983 (0) Deleting zip manifest (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-others.zip.list.tmp)
+0445.988 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0445.992 (0) Number of backup sets in history: 0; groups (db): 1
+0445.995 (0) Number of backup sets in history: 0; groups (files): 1
+0445.997 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0446.017 (0) Saving backup status to database (elements: 8)
+0446.023 (0) Beginning creation of database dump (WordPress DB)
+0446.027 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0446.254 (0) Table wp_options: Total expected rows (via COUNT): 432
+0446.257 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.569 (0) Table wp_options: Rows added in this batch (next record: 1396): 428 (uncompressed bytes in this segment=2842114) in 0.37 seconds
+0446.585 (0) The time we have been running (446.6) is approaching the resumption interval (476) - increasing resumption interval to 477
+0446.598 (0) Table wp_options: finishing file(s) (2, 470 KB)
+0446.629 (0) Table wp_users: Total expected rows (via COUNT): 1
+0446.632 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.639 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1165) in 0.03 seconds
+0446.654 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0446.681 (0) Table wp_usermeta: Total expected rows (via COUNT): 43
+0446.683 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.690 (0) Table wp_usermeta: Rows added in this batch (next record: 47): 43 (uncompressed bytes in this segment=4687) in 0.02 seconds
+0446.708 (0) Table wp_usermeta: finishing file(s) (2, 2.3 KB)
+0446.732 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 10
+0446.734 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.741 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 16): 10 (uncompressed bytes in this segment=5277) in 0.02 seconds
+0446.762 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.2 KB)
+0446.780 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0446.787 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0446.801 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0446.821 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0446.825 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.832 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=713) in 0.02 seconds
+0446.847 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0446.870 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 28
+0446.872 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.881 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 28): 28 (uncompressed bytes in this segment=3290) in 0.02 seconds
+0446.897 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.9 KB)
+0446.923 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0446.929 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.02 seconds
+0446.948 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0446.969 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0446.971 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.978 (0) Table wp_comments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2153) in 0.02 seconds
+0446.992 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0447.031 (0) Table wp_links: Total expected rows (via COUNT): 0
+0447.036 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.02 seconds
+0447.047 (0) The time we have been running (447) is approaching the resumption interval (477) - increasing resumption interval to 478
+0447.059 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0447.102 (0) Table wp_postmeta: Total expected rows (via COUNT): 649
+0447.104 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.142 (0) Table wp_postmeta: Rows added in this batch (next record: 1180): 649 (uncompressed bytes in this segment=645097) in 0.07 seconds
+0447.163 (0) Table wp_postmeta: finishing file(s) (2, 19.7 KB)
+0447.199 (0) Table wp_posts: Total expected rows (via COUNT): 121
+0447.202 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.230 (0) Table wp_posts: Rows added in this batch (next record: 157): 121 (uncompressed bytes in this segment=357583) in 0.06 seconds
+0447.247 (0) Table wp_posts: finishing file(s) (2, 16.4 KB)
+0447.267 (0) Table wp_term_relationships: Total expected rows (approximate): 8
+0447.275 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 8 (uncompressed bytes in this segment=795) in 0.02 seconds
+0447.289 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0447.316 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 19
+0447.318 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.325 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=1556) in 0.02 seconds
+0447.342 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0447.369 (0) Table wp_termmeta: Total expected rows (via COUNT): 17
+0447.372 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.376 (0) Table wp_termmeta: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=1278) in 0.02 seconds
+0447.393 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+0447.416 (0) Table wp_terms: Total expected rows (via COUNT): 19
+0447.419 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.423 (0) Table wp_terms: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=1346) in 0.02 seconds
+0447.439 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0447.458 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 4
+0447.465 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 4 (uncompressed bytes in this segment=622) in 0.02 seconds
+0447.482 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0447.504 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 1
+0447.507 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.513 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 154): 1 (uncompressed bytes in this segment=1363) in 0.02 seconds
+0447.528 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0447.547 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0447.557 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.02 seconds
+0447.581 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0447.619 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0447.621 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.629 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=750) in 0.03 seconds
+0447.645 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0447.672 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 9
+0447.675 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.679 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1106) in 0.02 seconds
+0447.697 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.5 KB)
+0447.742 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0447.749 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.02 seconds
+0447.765 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0447.798 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0447.805 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=511) in 0.02 seconds
+0447.822 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0447.841 (0) Table wp_tinvwl_analytics: Total expected rows (approximate): 1
+0447.845 (0) Table wp_tinvwl_analytics: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=1058) in 0.01 seconds
+0447.859 (0) Table wp_tinvwl_analytics: finishing file(s) (2, 0.5 KB)
+0447.880 (0) Table wp_tinvwl_items: Total expected rows (via COUNT): 1
+0447.882 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.888 (0) Table wp_tinvwl_items: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=953) in 0.02 seconds
+0447.902 (0) Table wp_tinvwl_items: finishing file(s) (2, 0.5 KB)
+0447.921 (0) Table wp_tinvwl_lists: Total expected rows (via COUNT): 1
+0447.923 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.927 (0) Table wp_tinvwl_lists: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=788) in 0.01 seconds
+0447.942 (0) Table wp_tinvwl_lists: finishing file(s) (2, 0.5 KB)
+0447.967 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 90
+0447.970 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0447.983 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 584): 90 (uncompressed bytes in this segment=18889) in 0.03 seconds
+0448.000 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 3 KB)
+0448.027 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 70
+0448.029 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0448.038 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 70): 70 (uncompressed bytes in this segment=33770) in 0.03 seconds
+0448.052 (0) The time we have been running (448) is approaching the resumption interval (478) - increasing resumption interval to 479
+0448.064 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.7 KB)
+0448.087 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 1
+0448.089 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0448.097 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1220) in 0.02 seconds
+0448.112 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0448.146 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0448.152 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.01 seconds
+0448.168 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0448.187 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0448.191 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.01 seconds
+0448.206 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0448.232 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 1
+0448.234 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0448.243 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1345) in 0.02 seconds
+0448.259 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0448.279 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 1
+0448.282 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0448.285 (0) Table wp_wc_order_stats: Rows added in this batch (next record: 156): 1 (uncompressed bytes in this segment=1350) in 0.02 seconds
+0448.299 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.6 KB)
+0448.326 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0448.332 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.01 seconds
+0448.349 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0448.366 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0448.370 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=831) in 0.01 seconds
+0448.384 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0448.418 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0448.420 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0448.426 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=883) in 0.02 seconds
+0448.441 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0448.541 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0448.548 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.01 seconds
+0448.561 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0448.607 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0448.612 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.02 seconds
+0448.627 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0448.664 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0448.667 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=873) in 0.02 seconds
+0448.687 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0448.726 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0448.730 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=835) in 0.01 seconds
+0448.745 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0448.765 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0448.769 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.01 seconds
+0448.784 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0448.822 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0448.826 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.02 seconds
+0448.843 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0448.862 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 1
+0448.865 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0448.871 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=817) in 0.02 seconds
+0448.885 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0448.916 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0448.922 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.01 seconds
+0448.936 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0448.958 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0448.960 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0448.965 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 10): 1 (uncompressed bytes in this segment=2348) in 0.02 seconds
+0448.981 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1 KB)
+0448.999 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0449.004 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=812) in 0.01 seconds
+0449.014 (0) The time we have been running (449) is approaching the resumption interval (479) - increasing resumption interval to 480
+0449.026 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0449.043 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0449.046 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.01 seconds
+0449.059 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0449.078 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0449.081 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=602) in 0.01 seconds
+0449.094 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.3 KB)
+0449.112 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0449.115 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.01 seconds
+0449.128 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0449.146 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0449.149 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1142) in 0.01 seconds
+0449.163 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0449.165 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\testsite/wp-content/updraft/backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db.gz (line 1976, C:\xampp\htdocs\testsite\wp-content\plugins\updraftplus\backup.php)
+0449.170 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_options.table.tmpr1397.gz (1/50/fopen): adding to final database dump
+0449.195 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_options.table.gz (2/50/fopen): adding to final database dump
+0449.198 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_users.table.tmpr2.gz (3/50/fopen): adding to final database dump
+0449.201 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_users.table.gz (4/50/fopen): adding to final database dump
+0449.203 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_usermeta.table.tmpr48.gz (5/50/fopen): adding to final database dump
+0449.206 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_usermeta.table.gz (6/50/fopen): adding to final database dump
+0449.208 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_actions.table.tmpr17.gz (7/50/fopen): adding to final database dump
+0449.211 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_actions.table.gz (8/50/fopen): adding to final database dump
+0449.214 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/50/fopen): adding to final database dump
+0449.216 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_claims.table.gz (10/50/fopen): adding to final database dump
+0449.219 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/50/fopen): adding to final database dump
+0449.223 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_groups.table.gz (12/50/fopen): adding to final database dump
+0449.225 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_logs.table.tmpr29.gz (13/50/fopen): adding to final database dump
+0449.228 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_actionscheduler_logs.table.gz (14/50/fopen): adding to final database dump
+0449.231 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_commentmeta.table.tmpr0.gz (15/50/fopen): adding to final database dump
+0449.235 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_commentmeta.table.gz (16/50/fopen): adding to final database dump
+0449.238 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_comments.table.tmpr3.gz (17/50/fopen): adding to final database dump
+0449.240 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_comments.table.gz (18/50/fopen): adding to final database dump
+0449.243 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_links.table.tmpr0.gz (19/50/fopen): adding to final database dump
+0449.245 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_links.table.gz (20/50/fopen): adding to final database dump
+0449.248 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_postmeta.table.tmpr1181.gz (21/50/fopen): adding to final database dump
+0449.252 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_postmeta.table.gz (22/50/fopen): adding to final database dump
+0449.255 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_posts.table.tmpr158.gz (23/50/fopen): adding to final database dump
+0449.259 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_posts.table.gz (24/50/fopen): adding to final database dump
+0449.261 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_term_relationships.table.tmpr100001.gz (25/50/fopen): adding to final database dump
+0449.264 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_term_relationships.table.gz (26/50/fopen): adding to final database dump
+0449.267 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_term_taxonomy.table.tmpr20.gz (27/50/fopen): adding to final database dump
+0449.270 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_term_taxonomy.table.gz (28/50/fopen): adding to final database dump
+0449.272 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_termmeta.table.tmpr18.gz (29/50/fopen): adding to final database dump
+0449.275 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_termmeta.table.gz (30/50/fopen): adding to final database dump
+0449.278 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_terms.table.tmpr20.gz (31/50/fopen): adding to final database dump
+0449.281 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_terms.table.gz (32/50/fopen): adding to final database dump
+0449.283 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/50/fopen): adding to final database dump
+0449.286 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_category_lookup.table.gz (34/50/fopen): adding to final database dump
+0449.289 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_product_meta_lookup.table.tmpr155.gz (35/50/fopen): adding to final database dump
+0449.291 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_product_meta_lookup.table.gz (36/50/fopen): adding to final database dump
+0449.294 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/50/fopen): adding to final database dump
+0449.297 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_reserved_stock.table.gz (38/50/fopen): adding to final database dump
+0449.299 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/50/fopen): adding to final database dump
+0449.302 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_tax_rate_classes.table.gz (40/50/fopen): adding to final database dump
+0449.304 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_order_itemmeta.table.tmpr10.gz (41/50/fopen): adding to final database dump
+0449.307 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_order_itemmeta.table.gz (42/50/fopen): adding to final database dump
+0449.309 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/50/fopen): adding to final database dump
+0449.312 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/50/fopen): adding to final database dump
+0449.315 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_e_events.table.tmpr0.gz (45/50/fopen): adding to final database dump
+0449.317 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_e_events.table.gz (46/50/fopen): adding to final database dump
+0449.320 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_tinvwl_analytics.table.tmpr1001.gz (47/50/fopen): adding to final database dump
+0449.322 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_tinvwl_analytics.table.gz (48/50/fopen): adding to final database dump
+0449.325 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_tinvwl_items.table.tmpr2.gz (49/50/fopen): adding to final database dump
+0449.327 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_tinvwl_items.table.gz (50/50/fopen): adding to final database dump
+0449.330 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_tinvwl_lists.table.tmpr2.gz (51/50/fopen): adding to final database dump
+0449.333 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_tinvwl_lists.table.gz (52/50/fopen): adding to final database dump
+0449.335 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_admin_note_actions.table.tmpr585.gz (53/50/fopen): adding to final database dump
+0449.338 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_admin_note_actions.table.gz (54/50/fopen): adding to final database dump
+0449.340 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_admin_notes.table.tmpr71.gz (55/50/fopen): adding to final database dump
+0449.343 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_admin_notes.table.gz (56/50/fopen): adding to final database dump
+0449.346 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_customer_lookup.table.tmpr2.gz (57/50/fopen): adding to final database dump
+0449.348 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_customer_lookup.table.gz (58/50/fopen): adding to final database dump
+0449.351 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_download_log.table.tmpr0.gz (59/50/fopen): adding to final database dump
+0449.353 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_download_log.table.gz (60/50/fopen): adding to final database dump
+0449.356 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (61/50/fopen): adding to final database dump
+0449.359 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_coupon_lookup.table.gz (62/50/fopen): adding to final database dump
+0449.361 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_product_lookup.table.tmpr2.gz (63/50/fopen): adding to final database dump
+0449.364 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_product_lookup.table.gz (64/50/fopen): adding to final database dump
+0449.366 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_stats.table.tmpr157.gz (65/50/fopen): adding to final database dump
+0449.369 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_stats.table.gz (66/50/fopen): adding to final database dump
+0449.371 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (67/50/fopen): adding to final database dump
+0449.374 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_order_tax_lookup.table.gz (68/50/fopen): adding to final database dump
+0449.376 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (69/50/fopen): adding to final database dump
+0449.379 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_product_attributes_lookup.table.gz (70/50/fopen): adding to final database dump
+0449.381 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_product_download_directories.table.tmpr3.gz (71/50/fopen): adding to final database dump
+0449.384 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_product_download_directories.table.gz (72/50/fopen): adding to final database dump
+0449.386 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_rate_limits.table.tmpr0.gz (73/50/fopen): adding to final database dump
+0449.389 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_rate_limits.table.gz (74/50/fopen): adding to final database dump
+0449.391 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_webhooks.table.tmpr0.gz (75/50/fopen): adding to final database dump
+0449.394 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_wc_webhooks.table.gz (76/50/fopen): adding to final database dump
+0449.397 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (77/50/fopen): adding to final database dump
+0449.400 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_api_keys.table.gz (78/50/fopen): adding to final database dump
+0449.402 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (79/50/fopen): adding to final database dump
+0449.405 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_attribute_taxonomies.table.gz (80/50/fopen): adding to final database dump
+0449.408 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (81/50/fopen): adding to final database dump
+0449.411 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (82/50/fopen): adding to final database dump
+0449.413 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_log.table.tmpr0.gz (83/50/fopen): adding to final database dump
+0449.416 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_log.table.gz (84/50/fopen): adding to final database dump
+0449.418 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_order_items.table.tmpr2.gz (85/50/fopen): adding to final database dump
+0449.421 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_order_items.table.gz (86/50/fopen): adding to final database dump
+0449.424 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (87/50/fopen): adding to final database dump
+0449.427 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_payment_tokens.table.gz (88/50/fopen): adding to final database dump
+0449.430 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_sessions.table.tmpr11.gz (89/50/fopen): adding to final database dump
+0449.433 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_sessions.table.gz (90/50/fopen): adding to final database dump
+0449.435 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (91/50/fopen): adding to final database dump
+0449.438 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_shipping_zone_locations.table.gz (92/50/fopen): adding to final database dump
+0449.441 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (93/50/fopen): adding to final database dump
+0449.444 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_shipping_zone_methods.table.gz (94/50/fopen): adding to final database dump
+0449.447 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (95/50/fopen): adding to final database dump
+0449.449 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_shipping_zones.table.gz (96/50/fopen): adding to final database dump
+0449.452 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (97/50/fopen): adding to final database dump
+0449.455 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_tax_rate_locations.table.gz (98/50/fopen): adding to final database dump
+0449.457 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (99/50/fopen): adding to final database dump
+0449.462 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db-table-wp_woocommerce_tax_rates.table.gz (100/50/fopen): adding to final database dump
+0449.520 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db.gz: finished writing out complete database file (539.4 KB)
+0449.573 (0) Total database tables backed up: 50 (backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db.gz, size: 552429, sha1: 602f3a2e72821402fbd02d31dc888a87cb4a4479, sha256: f01b14c7e249031d02877422009d618597c860a97712a23d478a115948fc641b)
+0449.586 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-plugins.zip: plugins: This file has already been successfully uploaded
+0449.588 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-themes.zip: themes: This file has already been successfully uploaded
+0449.590 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-uploads.zip: uploads: This file has already been successfully uploaded
+0449.592 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-others.zip: others: This file has already been successfully uploaded
+0449.593 (0) backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0449.595 (0) Saving backup history. Total backup size: 42.6 MB
+0449.601 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0449.609 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0449.611 (0) No remote despatch: user chose no remote backup service
+0449.613 (0) Recording as successfully uploaded: backup_2023-05-28-1036_Online_Watches_9be9d54f3cf5-db.gz
+0449.621 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0449.633 (0) Number of backup sets in history: 1; groups (db): 1
+0449.635 (0) Examining (for databases) backup set with group_id=0, nonce=9be9d54f3cf5, datestamp=1685270219 (May 28 2023 10:36:59)
+0449.638 (0) This backup set is the backup set just made, so will not be deleted.
+0449.638 (0) Number of backup sets in history: 1; groups (files): 1
+0449.641 (0) Examining (for files) backup set with nonce=9be9d54f3cf5, datestamp=1685270219 (May 28 2023 10:36:59)
+0449.641 (0) This backup set is the backup set just made, so will not be deleted.
+0449.643 (0) This backup set is the backup set just made, so will not be deleted.
+0449.643 (0) This backup set is the backup set just made, so will not be deleted.
+0449.643 (0) This backup set is the backup set just made, so will not be deleted.
+0449.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0449.645 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0449.651 (0) Resume backup (9be9d54f3cf5, 0): finish run
+0449.657 (0) Decremented the semaphore (fd) by 1
+0449.665 (0) Semaphore (fd) unlocked
+0449.667 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0449.678 (0) No email will/can be sent - the user has not configured an email address.
+0449.681 (0) The backup apparently succeeded and is now complete
